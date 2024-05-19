@@ -1,8 +1,8 @@
 # Cloud Computing Architecture Project
 
 Topic: Interference-Aware Cloud Application Scheduling
-- Part 1 & 2: Analyze the sensitivity of cloud applications to various types of resource interference (e.g., CPU, cache, etc...).
-- Part 3 & 4: Design dynamic interference-aware scheduling policies to run latency-critical and batch applications on shared Virtual Machines.
+- Part 1&2: Analyze the sensitivity of cloud applications to various types of resource interference (e.g., CPU, cache, etc...).
+- Part 3&4: Design dynamic interference-aware scheduling policies to run latency-critical and batch applications on shared Virtual Machines.
 
 # Instructions
 
